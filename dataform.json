@@ -2,7 +2,7 @@
   "defaultSchema": "dataform",
   "assertionSchema": "dataform_assertions",
   "warehouse": "bigquery",
-  "defaultDatabase": "c4ds-gcp",
-  "defaultLocation": "EU"
+  "defaultDatabase": "opdc-457115",
+  "defaultLocation": "US"
 }
     
